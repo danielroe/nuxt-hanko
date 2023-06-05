@@ -1,6 +1,6 @@
 {
   "name": "nuxt-hanko",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My new Nuxt module",
   "repository": "your-org/nuxt-hanko",
   "license": "MIT",
@@ -43,5 +43,6 @@
     "eslint": "^8.41.0",
     "nuxt": "^3.5.1",
     "vitest": "^0.31.1"
-  }
+  },
+  "packageManager": "pnpm@8.6.0"
 }
